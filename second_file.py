@@ -5,3 +5,6 @@ print('Hello, cat 3!')
 print('Hello, cat 4!')
 print('Hello, cat 5!')
 #=> Hello world
+
+# Этот код работает исправно!
+# Автор - разработчик №2
